@@ -1,0 +1,10 @@
+{
+  "name": "Remix AuraStudio Ultra AI - Professional Headshots \u0026 Branding Platform",
+  "description": "The world\u0027s most advanced AI Headshot, Professional Portrait \u0026 Personal Branding Platform featuring 100+ styles, face lock fidelity, AI resume mode, team portal, and brand kit builder.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
